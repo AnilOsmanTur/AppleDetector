@@ -1,5 +1,7 @@
 # AppleDetector
 
+Open-world object detector toy example and solution with FastSAM and CLIP models.
+
 Creating a new conda environment and installing the required packages:
 
 ```shell
